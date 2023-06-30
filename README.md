@@ -44,6 +44,28 @@ Click Next to continue and view a summary of your machine setting.
 
 After this click Finish to initialize the machine!
 
+### 1.4. Change network to Bridged Adapter
+Select **your VM** --> select **Settings**
+
+![7](https://github.com/go-julian/crate-vm-port-forwarding/assets/130023825/3df18a3f-0c57-44e0-bc26-2cbadf6c362e)
+
+Select **Network** --> select **Bridged Adapter** --> **OK**
+
+![8](https://github.com/go-julian/crate-vm-port-forwarding/assets/130023825/4a3de6f5-5863-4f02-8728-9cea68b3700d)
+
+**Reboot your VM**
+
+## 2. Port forwarding (Router mikrotik)
+### 2.1. Install Winbox 
+You can install Winbox follow [here](https://help.mikrotik.com/docs/display/RKB/How+to+install+WinBox)
+### 2.2. Configure port forwarding
+Open Winbox --> type ip's router(192.168.1.1), your user, your password
+
+
+
+
+
+
 
 
 
